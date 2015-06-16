@@ -1,0 +1,2 @@
+order_id,created_at,updated_at,invoice_created_at,billing_firstname,shipping_firstname,customer_id,base_grand_total,grand_total,order_status,Source
+10000000,"2015-06-15 07:00:39",,,"Eduardo test Mendoza Ugarte","Eduardo test Mendoza Ugarte",54829,"CA$5,040.00","CA$5,040.00",Complete,Web
